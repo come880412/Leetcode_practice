@@ -1,2 +1,2 @@
 # Leetcode_practice
-Repository for practicing Leetcode
+This repo is recording the code that I have already finished question in Leetcode.
