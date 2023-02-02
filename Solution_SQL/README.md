@@ -7,6 +7,7 @@
 - E [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/?envType=study-plan&id=sql-i) [[SQL]](https://github.com/come880412/Leetcode_practice/blob/main/Solution_SQL/0584.txt)
 - E [595. Big Countries](https://leetcode.com/problems/big-countries/?envType=study-plan&id=sql-i)  [[SQL]](https://github.com/come880412/Leetcode_practice/blob/main/Solution_SQL/0595.txt)
 - E [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/?envType=study-plan&id=sql-i) [[SQL]](https://github.com/come880412/Leetcode_practice/blob/main/Solution_SQL/1757.txt)
+- E [1667. Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/description/?envType=study-plan&id=sql-i) [[SQL]](https://github.com/come880412/Leetcode_practice/blob/main/Solution_SQL/1667.txt)
 
 ### Case When
 - E [1873. Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/?envType=study-plan&id=sql-i) [[SQL]](https://github.com/come880412/Leetcode_practice/blob/main/Solution_SQL/1873.txt)
