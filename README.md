@@ -44,3 +44,6 @@
 
 ### Interval
 - M [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0056.cpp)
+  
+### Tree
+- E [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0226.cpp)
