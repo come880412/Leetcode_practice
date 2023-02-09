@@ -48,4 +48,5 @@
   
 ### Tree
 - M [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0098.cpp) 
+- M [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0105.cpp)
 - E [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0226.cpp)
