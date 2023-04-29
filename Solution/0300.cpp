@@ -18,3 +18,35 @@ public:
         return out;
     }
 };
+
+// O(nlog n) solution
+class Solution {
+public:
+    int BinarySearch(vector<int> res, int num){
+        int left=0, right=res.size()-1;
+        while(left != right){
+            int mid = (left + right) / 2;
+            if(res[mid] < num)
+                left = mid + 1;
+            else if(res[mid] > num)
+                right = mid;
+            else
+                return mid;
+        }
+        return right;
+    }
+    int lengthOfLIS(vector<int>& nums) {
+        vector<int> res{nums[0]};
+        for(int i=1; i<nums.size(); ++i){
+            int num = nums[i];
+            cout<<num<<" ";
+            if(num > res[res.size()-1])
+                res.push_back(num);
+            else{
+                int idx = BinarySearch(res, num);
+                res[idx] = num;
+            }
+        }
+        return res.size(); 
+    }
+};
