@@ -14,9 +14,7 @@ public:
     int DFS(TreeNode* p, TreeNode* q){
         int isSame = 1;
         
-        if(p != nullptr && q != nullptr){
-            if(p->val != q->val)
-                return 0;
+        if(p != nullptr && q != nullptr && p->val == q->val){
             isSame *= DFS(p->left, q->left);
             isSame *= DFS(p->right, q->right);
         }
