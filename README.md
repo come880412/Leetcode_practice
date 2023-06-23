@@ -36,7 +36,7 @@
 - E [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0121.cpp)
 
 ### Dynamic Programming
-- E [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0070.cpp)
+- E [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0070.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0070.py)
 - M [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0152.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0152.py)
 - M [198. House Robber](https://leetcode.com/problems/house-robber/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0198.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0198.py)
 - M [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0238.cpp)
