@@ -34,6 +34,7 @@
 ### Greedy Algorithm
 - E [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0053.cpp)
 - E [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0121.cpp)
+- M [2311. Longest Binary Subsequence Less Than or Equal to K](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2311.cpp)
 
 ### Dynamic Programming
 - E [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0070.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0070.py)
