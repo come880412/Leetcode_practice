@@ -1,3 +1,4 @@
+// Implement by myself for first time
 class WordDictionary {
 public:
     unordered_map<char, WordDictionary*> node;
@@ -57,6 +58,45 @@ public:
             }
         }
         return false;
+    }
+};
+
+
+// Reference: https://zxi.mytechroad.com/blog/data-structure/leetcode-211-design-add-and-search-words-data-structure/
+/**
+ * Your WordDictionary object will be instantiated and called as such:
+ * WordDictionary* obj = new WordDictionary();
+ * obj->addWord(word);
+ * bool param_2 = obj->search(word);
+ */
+
+class WordDictionary {
+public:
+    unordered_map<string, bool> wordDict;
+    unordered_map<int, vector<string>> wordLengCnt;
+    
+    void addWord(string word) {
+        wordDict[word] = true;
+        wordLengCnt[word.length()].push_back(word);
+    }
+    
+    bool search(string word) {
+        if(word.find('.') == string::npos)
+            return wordDict.count(word);
+        else {
+            for (int i=0; i<wordLengCnt[word.length()].size(); ++i) // Iterate the word with same length
+                if(isMatch(word, wordLengCnt[word.length()][i])) return true;
+        }
+        
+        return false;
+    }
+    
+    bool isMatch(const string &targetWord, const string &myWord) {
+        for(int i=0; i<myWord.length(); ++i) {
+            if(targetWord[i] == '.') continue;
+            else if(myWord[i] != targetWord[i]) return false;
+        }
+        return true;
     }
 };
 
