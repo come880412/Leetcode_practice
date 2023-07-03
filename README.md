@@ -55,6 +55,7 @@
 ### Interval
 - M [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0056.cpp)
 - M [57. Insert Interval](https://leetcode.com/problems/insert-interval/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0057.cpp)
+- E [252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0252.cpp)
 - M [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0435.cpp)
   
 ### Tree
