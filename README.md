@@ -2,7 +2,7 @@
 ## Problem & Solution
 
 ### Array
-- M [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0014.cpp)
+- E [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0014.cpp)
 - M [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0033.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0033.py)
 - M [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0128.cpp)
 ### Two Pointers
