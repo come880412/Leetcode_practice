@@ -41,7 +41,7 @@
 
 ### Dynamic Programming
 - M [55. Jump Game](https://leetcode.com/problems/jump-game/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0055.cpp)
-- M [62. Unique Paths](https://leetcode.com/problems/unique-paths/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0062.cpp)
+- M [62. Unique Paths](https://leetcode.com/problems/unique-paths/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0062.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0062.py)
 - E [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0070.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0070.py)
 - M [91. Decode Ways](https://leetcode.com/problems/decode-ways/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0091.cpp)
 - M [139. Word Break](https://leetcode.com/problems/word-break/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0139.cpp)
