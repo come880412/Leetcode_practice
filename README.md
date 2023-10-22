@@ -14,6 +14,7 @@
 - M [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0647.cpp)
 
 ### Linked List
+- M [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0002.cpp)
 - M [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0019.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0019.py)
 - E [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0141.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0141.py)
 - E [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0206.cpp)
