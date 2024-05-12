@@ -86,3 +86,4 @@
 
 ### Useful functions
 - Binary Search [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Useful_functions/binSearch.cpp)
+- Max Heap [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Useful_functions/maxHeap.cpp)
