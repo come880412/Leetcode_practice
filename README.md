@@ -57,7 +57,7 @@
 - M [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0377.cpp)
 
 ### Depth-First Search (DFS)
-- M [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0200.cpp)
+- M [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0200.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0200.py)
   
 ### Breadth-First Search (BFS)
 - M [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0417.cpp)
