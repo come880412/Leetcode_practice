@@ -70,7 +70,7 @@
 - M [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0435.cpp)
   
 ### Tree
-- M [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0098.cpp) 
+- M [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0098.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0098.py) 
 - E [100. Same Tree](https://leetcode.com/problems/same-tree/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0100.cpp) 
 - M [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0102.cpp)
 - E [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0104.cpp) 
