@@ -88,6 +88,9 @@
 ### Graph
 - M [133. Clone Graph](https://leetcode.com/problems/clone-graph/description/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0133.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0133.py) 
 
+### Bit Manipulation
+- E [190. Reverse Bits](https://leetcode.com/problems/reverse-bits) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0190.cpp)
+
 ### Useful functions
 - Binary Search [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Useful_functions/binSearch.cpp)
 - Max Heap [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Useful_functions/maxHeap.cpp)
