@@ -7,6 +7,7 @@
 - E [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0014.cpp)
 - M [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0033.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0033.py)
 - M [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0128.cpp)
+- E [268. Missing Number](https://leetcode.com/problems/missing-number/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0268.cpp)
 
 ### Two Pointers
 - M [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0003.cpp)
