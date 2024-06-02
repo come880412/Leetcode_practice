@@ -8,6 +8,7 @@
 - M [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0033.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0033.py)
 - M [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0128.cpp)
 - E [268. Missing Number](https://leetcode.com/problems/missing-number/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0268.cpp)
+- E [3168. Minimum Number of Chairs in a Waiting Room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3168.cpp)
 
 ### Two Pointers
 - M [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0003.cpp)
@@ -43,6 +44,7 @@
 - M [55. Jump Game](https://leetcode.com/problems/jump-game/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0055.cpp)
 - E [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0121.cpp)
 - M [2311. Longest Binary Subsequence Less Than or Equal to K](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2311.cpp)
+- M [3170. Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3170.cpp)
 
 ### Dynamic Programming
 - M [55. Jump Game](https://leetcode.com/problems/jump-game/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0055.cpp)
@@ -65,13 +67,13 @@
 ### Breadth-First Search (BFS)
 - M [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0417.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0417.py)
 
-
 ### Interval
 - M [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0056.cpp)
 - M [57. Insert Interval](https://leetcode.com/problems/insert-interval/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0057.cpp)
 - E [252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0252.cpp)
 - M [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0253.cpp)
 - M [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0435.cpp)
+- M [3169. Count Days Without Meetings](https://leetcode.com/problems/count-days-without-meetings) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3169.cpp)
   
 ### Tree
 - M [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0098.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0098.py) 
