@@ -66,6 +66,7 @@
   
 ### Breadth-First Search (BFS)
 - M [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0417.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0417.py)
+- M [2812. Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2812.cpp)
 
 ### Interval
 - M [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0056.cpp)
