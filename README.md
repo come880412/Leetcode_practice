@@ -24,6 +24,7 @@
 - E [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0021.cpp)
 - M [86. Partition List](https://leetcode.com/problems/partition-list) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0086.cpp)
 - E [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0141.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0141.py)
+- M [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0147.cpp)
 - E [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0206.cpp)
 
 ### Stack
