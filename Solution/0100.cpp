@@ -11,28 +11,16 @@
  */
 class Solution {
 public:
-    int DFS(TreeNode* p, TreeNode* q){
-        int isSame = 1;
-        
-        if(p != nullptr && q != nullptr && p->val == q->val){
-            isSame *= DFS(p->left, q->left);
-            isSame *= DFS(p->right, q->right);
-        }
-        else if(p == nullptr && q == nullptr){
-            return 1;
-        }
-            
-        else{
-            return 0;
-        }
-            
-        return isSame;
+    bool traverse(TreeNode *p, TreeNode *q) {
+        if (!p && !q) return true;
+        else if (!p && q) return false;
+        else if (p && !q) return false;
+        else if (p -> val != q -> val) return false;
+
+        return traverse(p -> left, q -> left) && traverse(p -> right, q -> right);
     }
-    
+
     bool isSameTree(TreeNode* p, TreeNode* q) {
-        if(DFS(p, q))
-            return true;
-        else
-            return false;
+        return traverse(p, q);
     }
 };
