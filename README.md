@@ -31,6 +31,7 @@
 
 ### Stack
 - E [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0020.cpp)
+- E [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0496.cpp)
 
 ### Hashing
 - E [1. TwoSum](https://leetcode.com/problems/two-sum/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0001.cpp)
