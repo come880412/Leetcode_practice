@@ -67,6 +67,7 @@
 - M [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0377.cpp)
 - M [322. Coin Change](https://leetcode.com/problems/coin-change/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0322.cpp)
 - M [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0377.cpp)
+- M [3180. Maximum Total Reward Using Operations I](https://leetcode.com/problems/maximum-total-reward-using-operations-i) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3180.cpp)
 
 ### Depth-First Search (DFS)
 - M [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0131.cpp)
