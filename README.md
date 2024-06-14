@@ -9,6 +9,7 @@
 - M [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0128.cpp)
 - E [268. Missing Number](https://leetcode.com/problems/missing-number/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0268.cpp)
 - E [3168. Minimum Number of Chairs in a Waiting Room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3168.cpp)
+- M [3179. Find the N-th Value After K Seconds](https://leetcode.com/problems/find-the-n-th-value-after-k-seconds/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3179.cpp)
 
 ### Two Pointers
 - M [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0003.cpp)
