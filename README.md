@@ -99,6 +99,7 @@
 
 ### Bit Manipulation
 - E [190. Reverse Bits](https://leetcode.com/problems/reverse-bits) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0190.cpp)
+- M [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0421.cpp)
 
 ### Useful functions
 - Binary Search [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Useful_functions/binSearch.cpp)
