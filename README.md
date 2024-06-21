@@ -109,6 +109,7 @@
 - M [133. Clone Graph](https://leetcode.com/problems/clone-graph/description/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0133.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0133.py) 
 
 ### Bit Manipulation
+- M [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0190.cpp)
 - E [190. Reverse Bits](https://leetcode.com/problems/reverse-bits) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0190.cpp)
 - M [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0371.cpp)
 - M [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0421.cpp)
