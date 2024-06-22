@@ -1,51 +1,47 @@
 class Trie {
 public:
-    unordered_map<char, Trie*> node;
-    bool isWord;
-    
+    unordered_map<char, Trie*> map;
+    bool isLeaf;
     Trie() {
-        isWord = false;
+        this->isLeaf = false;
     }
     
     void insert(string word) {
-        
-        Trie* n = this;
-        for(int i=0; i<word.length(); ++i) {
-            char letter = word[i];
-            
-            if(n->node.find(letter) == n->node.end()) // Not found
-                n -> node[letter] = new Trie();
-            n = n->node[letter];
+        int n = word.size();
+
+        Trie *curr = this;
+        for (int i = 0; i < n; ++i) {
+            if (curr->map.find(word[i]) == curr->map.end()) {
+                Trie *newNode = new Trie();
+                curr->map[word[i]] = newNode;
+            }
+            curr = curr->map[word[i]];
         }
-        n -> isWord = true;
+        curr->isLeaf = true;
     }
     
     bool search(string word) {
-        Trie* n = this;
-        
-        for(int i=0; i<word.length(); ++i) {
-            char letter = word[i];
-            
-            if(n->node.find(letter) == n->node.end()) // Not found
-                return false;
-            n = n->node[letter];
+        int n = word.size();
+
+        Trie *curr = this;
+        for (int i = 0; i < n; ++i) {
+            if (curr->map.find(word[i]) == curr->map.end()) return false;
+            curr = curr->map[word[i]];
         }
-        
-        return n -> isWord;   
+
+        if (curr->isLeaf) return true;
+        else return false;
     }
     
     bool startsWith(string prefix) {
-        Trie* n = this;
-        
-        for(int i=0; i<prefix.length(); ++i) {
-            char letter = prefix[i];
-            
-            if(n->node.find(letter) == n->node.end()) // Not found
-                return false;
-            n = n->node[letter];
+        int n = prefix.size();
+
+        Trie *curr = this;
+        for (int i = 0; i < n; ++i) {
+            if (curr->map.find(prefix[i]) == curr->map.end()) return false;
+            curr = curr->map[prefix[i]];
         }
-        
-        return true;   
+        return true;
     }
 };
 
