@@ -36,6 +36,7 @@
 ### Stack
 - E [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0020.cpp)
 - E [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0496.cpp)
+- M [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0739.cpp)
 
 # Priority Queue
 - M [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0215.cpp)
