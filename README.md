@@ -61,7 +61,7 @@
 - M [3170. Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3170.cpp)
 - M [3195. Find the Minimum Area to Cover All Ones I](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3195.cpp)
 
-### Dynamic Programming
+### Dynamic Programming (DP)
 - M [55. Jump Game](https://leetcode.com/problems/jump-game/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0055.cpp)
 - M [62. Unique Paths](https://leetcode.com/problems/unique-paths/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0062.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0062.py)
 - E [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0070.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0070.py)
@@ -75,7 +75,7 @@
 - M [322. Coin Change](https://leetcode.com/problems/coin-change/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0322.cpp)
 - M [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0377.cpp)
 - M [3180. Maximum Total Reward Using Operations I](https://leetcode.com/problems/maximum-total-reward-using-operations-i) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3180.cpp)
-- M [3186. Maximum Total Damage With Spell Casting](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/)
+- M [3186. Maximum Total Damage With Spell Casting](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/) [[C++]]([[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3186.cpp))
 
 ### Depth-First Search (DFS)
 - M [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0131.cpp)
