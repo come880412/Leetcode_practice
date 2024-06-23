@@ -58,6 +58,7 @@
 - E [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0121.cpp)
 - M [2311. Longest Binary Subsequence Less Than or Equal to K](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2311.cpp)
 - M [3170. Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3170.cpp)
+- M [3195. Find the Minimum Area to Cover All Ones I](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3195.cpp)
 
 ### Dynamic Programming
 - M [55. Jump Game](https://leetcode.com/problems/jump-game/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0055.cpp)
