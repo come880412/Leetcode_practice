@@ -11,6 +11,7 @@
 - E [3168. Minimum Number of Chairs in a Waiting Room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3168.cpp)
 - E [3178. Find the Child Who Has the Ball After K Seconds](https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3178.cpp)
 - M [3179. Find the N-th Value After K Seconds](https://leetcode.com/problems/find-the-n-th-value-after-k-seconds/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3179.cpp)
+- M [3194. Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3179.cpp)
 
 ### Two Pointers
 - M [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0003.cpp)
