@@ -79,7 +79,7 @@
 - M [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0377.cpp)
 - M [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1463.cpp)
 - M [3180. Maximum Total Reward Using Operations I](https://leetcode.com/problems/maximum-total-reward-using-operations-i) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3180.cpp)
-- M [3186. Maximum Total Damage With Spell Casting](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/) [[C++]]([[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3186.cpp))
+- M [3186. Maximum Total Damage With Spell Casting](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3186.cpp)
 - M [3196. Maximize Total Cost of Alternating Subarrays](https://leetcode.com/problems/maximize-total-cost-of-alternating-subarrays/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3196.cpp)
 
 ### Depth-First Search (DFS)
