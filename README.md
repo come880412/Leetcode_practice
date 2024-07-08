@@ -8,6 +8,7 @@
 - M [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0033.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0033.py)
 - M [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0128.cpp)
 - E [268. Missing Number](https://leetcode.com/problems/missing-number/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0268.cpp)
+- E [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3105.cpp)
 - E [3168. Minimum Number of Chairs in a Waiting Room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3168.cpp)
 - E [3178. Find the Child Who Has the Ball After K Seconds](https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3178.cpp)
 - M [3179. Find the N-th Value After K Seconds](https://leetcode.com/problems/find-the-n-th-value-after-k-seconds/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3179.cpp)
