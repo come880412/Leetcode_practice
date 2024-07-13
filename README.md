@@ -129,3 +129,4 @@
 - RabinKarp Alg. [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Useful_functions/rabinKarp.cpp)
 - String Reduction [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Useful_functions/stringReduction.cpp)
 - Ceasar Cipher [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Useful_functions/CeasarCipher.cpp)
+- **(Qualcomm Interview)** Reverse Cstring [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Useful_functions/ReverseCstring.cpp)
