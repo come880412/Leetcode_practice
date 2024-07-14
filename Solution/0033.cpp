@@ -8,12 +8,13 @@ public:
             int m = (s + e) / 2;
             
             if (nums[m] == target) return m;
-            else if (nums[m] > target) {
-                if (target < nums[s] && nums[m] >= nums[s]) s = m + 1;
-                else e = m - 1;
-            } else {
-                if (target > nums[e] && nums[m] < nums[s]) e = m - 1;
+
+            if (nums[m] >= nums[s]) { // left half is sorted array
+                if (nums[m] > target && target >= nums[s]) e = m - 1;
                 else s = m + 1;
+            } else { // right half is sorted array
+                if (nums[m] < target && target <= nums[e]) s = m + 1;
+                else e = m - 1;
             }
         }
         return -1;
