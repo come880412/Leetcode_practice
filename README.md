@@ -122,6 +122,7 @@
 - E [190. Reverse Bits](https://leetcode.com/problems/reverse-bits) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0190.cpp)
 - M [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0371.cpp)
 - M [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0421.cpp)
+- E [3226. Number of Bit Changes to Make Two Integers Equal](https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3226.cpp)
 
 ### Useful functions
 - Binary Search [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Useful_functions/binSearch.cpp)
