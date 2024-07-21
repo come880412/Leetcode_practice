@@ -16,6 +16,7 @@
 - M [3194. Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3179.cpp)
 - M [3227. Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3227.cpp)
 
+
 ### Two Pointers
 - M [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0003.cpp)
 - M [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0011.cpp)
@@ -24,6 +25,7 @@
 - M [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0424.cpp)
 - M [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0611.cpp)
 - M [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0647.cpp)
+- M [3228. Maximum Number of Operations to Move Ones to the End](https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3228.cpp)
 
 ### Linked List
 - M [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0002.cpp)
