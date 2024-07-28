@@ -2,12 +2,6 @@
 ## Problem & Solution
 
 ### Array
-- M [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0006.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0006.py)
-- M [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0008.cpp)
-- E [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0014.cpp)
-- M [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0033.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0033.py)
-- M [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0128.cpp)
-- E [268. Missing Number](https://leetcode.com/problems/missing-number/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0268.cpp)
 - M [912. Sort an Array](https://leetcode.com/problems/sort-an-array) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0912.cpp)
 - E [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3105.cpp)
 - M [3107. Minimum Operations to Make Median of Array Equal to K](https://leetcode.com/problems/minimum-operations-to-make-median-of-array-equal-to-k/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3107.cpp)
@@ -15,10 +9,17 @@
 - E [3178. Find the Child Who Has the Ball After K Seconds](https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3178.cpp)
 - M [3179. Find the N-th Value After K Seconds](https://leetcode.com/problems/find-the-n-th-value-after-k-seconds/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3179.cpp)
 - M [3194. Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3179.cpp)
-- M [3227. Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3227.cpp)
 - H [3229. Minimum Operations to Make Array Equal to Target](https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3229.cpp)
 - E [3232. Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3232.cpp)
 
+### Binary Search
+- M [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0033.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0033.py)
+
+### String
+- M [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0006.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0006.py)
+- M [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0008.cpp)
+- E [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0014.cpp)
+- M [3227. Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3227.cpp)
 
 ### Two Pointers
 - M [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0003.cpp)
@@ -38,26 +39,29 @@
 - M [86. Partition List](https://leetcode.com/problems/partition-list) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0086.cpp)
 - E [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0092.cpp)
 - E [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0141.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0141.py)
-- M [146. LRU Cache](https://leetcode.com/problems/lru-cache/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0146.cpp)
 - M [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0147.cpp)
 - E [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0206.cpp)
 - M [1171. Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1171.cpp)
 
+### System Design
+- M [146. LRU Cache](https://leetcode.com/problems/lru-cache/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0146.cpp)
+
 ### Stack
 - E [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0020.cpp)
+#### Monotonic stack
 - E [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0496.cpp)
 - M [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0739.cpp)
 
 ### Priority Queue
 - M [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0215.cpp)
+- M [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0347.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0347.py)
 
 ### Hashing
 - E [1. TwoSum](https://leetcode.com/problems/two-sum/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0001.cpp)
 - M [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0049.cpp)
-- M [207. Course Schedule](https://leetcode.com/problems/course-schedule/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0207.cpp)
+- M [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0128.cpp)
 - E [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0217.cpp)
 - E [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0242.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0242.py)
-- M [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0347.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0347.py)
 - M [3185. Count Pairs That Form a Complete Day II](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-ii/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3185.cpp)
 
 ### Binary Search
@@ -73,7 +77,6 @@
 - M [3195. Find the Minimum Area to Cover All Ones I](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3195.cpp)
 
 ### Dynamic Programming (DP)
-- M [55. Jump Game](https://leetcode.com/problems/jump-game/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0055.cpp)
 - M [62. Unique Paths](https://leetcode.com/problems/unique-paths/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0062.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0062.py)
 - E [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0070.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0070.py)
 - M [91. Decode Ways](https://leetcode.com/problems/decode-ways/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0091.cpp)
@@ -90,11 +93,15 @@
 - M [3186. Maximum Total Damage With Spell Casting](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3186.cpp)
 - M [3196. Maximize Total Cost of Alternating Subarrays](https://leetcode.com/problems/maximize-total-cost-of-alternating-subarrays/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3196.cpp)
 
-### Depth-First Search (DFS)
+### Backtracking
 - M [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0131.cpp)
+
+### Depth-First Search (DFS)
+- M [133. Clone Graph](https://leetcode.com/problems/clone-graph/description/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0133.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0133.py) 
 - M [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0200.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0200.py)
   
 ### Breadth-First Search (BFS)
+- M [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0102.cpp)
 - M [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0417.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0417.py)
 - M [2812. Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2812.cpp)
 
@@ -110,25 +117,33 @@
 - M [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0098.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0098.py) 
 - E [100. Same Tree](https://leetcode.com/problems/same-tree/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0100.cpp) 
 - E [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0101.cpp) 
-- M [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0102.cpp)
 - E [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0104.cpp) 
 - M [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0105.cpp)
 - M [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0109.cpp)
-- M [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0208.cpp)
-- M [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0211.cpp)
 - E [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0226.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0226.py)
 - M [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0230.cpp) 
 - E [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0572.cpp)
 
+### Trie
+- M [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0208.cpp)
+- M [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0211.cpp)
+- M [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0421.cpp)
+
 ### Graph
-- M [133. Clone Graph](https://leetcode.com/problems/clone-graph/description/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0133.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0133.py) 
+#### Topological Sort
+- M [207. Course Schedule](https://leetcode.com/problems/course-schedule/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0207.cpp)
+
+#### Dijkstra's algorithm
+- M [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1334.cpp)
+
+#### Floyd-warshall algorithm
 - M [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1334.cpp)
 
 ### Bit Manipulation
 - M [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0190.cpp)
 - E [190. Reverse Bits](https://leetcode.com/problems/reverse-bits) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0190.cpp)
+- E [268. Missing Number](https://leetcode.com/problems/missing-number/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0268.cpp)
 - M [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0371.cpp)
-- M [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0421.cpp)
 - E [3226. Number of Bit Changes to Make Two Integers Equal](https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3226.cpp)
 
 ### Useful functions
