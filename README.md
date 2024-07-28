@@ -20,6 +20,7 @@
 - M [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0008.cpp)
 - E [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0014.cpp)
 - M [3227. Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3227.cpp)
+- M [3234. Number of Substrings With At Least K Ones](https://leetcode.com/problems/number-of-substrings-with-at-least-k-ones/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3234.cpp)
 
 ### Two Pointers
 - M [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0003.cpp)
