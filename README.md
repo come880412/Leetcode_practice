@@ -2,6 +2,7 @@
 ## Problem & Solution
 
 ### Array
+- M [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0238.cpp)
 - M [912. Sort an Array](https://leetcode.com/problems/sort-an-array) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0912.cpp)
 - E [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3105.cpp)
 - M [3107. Minimum Operations to Make Median of Array Equal to K](https://leetcode.com/problems/minimum-operations-to-make-median-of-array-equal-to-k/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3107.cpp)
@@ -11,9 +12,6 @@
 - M [3194. Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3179.cpp)
 - H [3229. Minimum Operations to Make Array Equal to Target](https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3229.cpp)
 - E [3232. Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3232.cpp)
-
-### Binary Search
-- M [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0033.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0033.py)
 
 ### String
 - M [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0006.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0006.py)
@@ -66,6 +64,7 @@
 - M [3185. Count Pairs That Form a Complete Day II](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-ii/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3185.cpp)
 
 ### Binary Search
+- M [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0033.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0033.py)
 - M [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0153.cpp)
 - M [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0235.cpp)
 
@@ -85,7 +84,6 @@
 - M [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0152.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0152.py)
 - M [198. House Robber](https://leetcode.com/problems/house-robber/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0198.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0198.py)
 - M [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0213.cpp)
-- M [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0238.cpp)
 - M [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0300.cpp)
 - M [322. Coin Change](https://leetcode.com/problems/coin-change/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0322.cpp)
 - M [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0377.cpp)
@@ -141,20 +139,30 @@
 - M [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1334.cpp)
 
 ### Bit Manipulation
-- M [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0190.cpp)
 - E [190. Reverse Bits](https://leetcode.com/problems/reverse-bits) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0190.cpp)
 - E [268. Missing Number](https://leetcode.com/problems/missing-number/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0268.cpp)
 - M [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0371.cpp)
 - E [3226. Number of Bit Changes to Make Two Integers Equal](https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3226.cpp)
 
 ### Math
+- M [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0190.cpp)
 #### Prime
 - M [3233. Non-Special Prime Count](https://leetcode.com/problems/non-special-prime-count/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3233.cpp)
 
-### Useful functions
+### Useful Functions and Implementations
+
+This section contains implementations of common algorithms and data structures that are often useful in solving LeetCode problems.
+
+#### Searching and Sorting
 - Binary Search [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Useful_functions/binSearch.cpp)
+
+#### Data Structures
 - Max Heap [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Useful_functions/maxHeap.cpp)
-- RabinKarp Alg. [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Useful_functions/rabinKarp.cpp)
+
+#### String Algorithms
+- RabinKarp Algorithm [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Useful_functions/rabinKarp.cpp)
 - String Reduction [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Useful_functions/stringReduction.cpp)
 - Ceasar Cipher [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Useful_functions/CeasarCipher.cpp)
+
+#### Interview Specific
 - **(Qualcomm Interview)** Reverse Cstring [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Useful_functions/ReverseCstring.cpp)
