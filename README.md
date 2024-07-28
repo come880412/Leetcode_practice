@@ -17,6 +17,7 @@
 - M [3194. Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3179.cpp)
 - M [3227. Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3227.cpp)
 - H [3229. Minimum Operations to Make Array Equal to Target](https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3229.cpp)
+- E [3232. Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3232.cpp)
 
 
 ### Two Pointers
