@@ -146,6 +146,10 @@
 - M [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0371.cpp)
 - E [3226. Number of Bit Changes to Make Two Integers Equal](https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3226.cpp)
 
+### Math
+#### Prime
+- M [3233. Non-Special Prime Count](https://leetcode.com/problems/non-special-prime-count/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3233.cpp)
+
 ### Useful functions
 - Binary Search [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Useful_functions/binSearch.cpp)
 - Max Heap [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Useful_functions/maxHeap.cpp)
