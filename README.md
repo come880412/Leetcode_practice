@@ -139,6 +139,7 @@
 
 #### Dijkstra's algorithm
 - M [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1334.cpp)
+- M [3243. Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3243.cpp)
 
 #### Floyd-warshall algorithm
 - M [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1334.cpp)
