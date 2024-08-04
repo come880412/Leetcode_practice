@@ -134,6 +134,8 @@
 - M [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0421.cpp)
 
 ### Graph
+- H [3244. Shortest Distance After Road Addition Queries II](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-ii) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3244.cpp)
+
 #### Topological Sort
 - M [207. Course Schedule](https://leetcode.com/problems/course-schedule/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0207.cpp)
 
