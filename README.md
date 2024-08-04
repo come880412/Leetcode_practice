@@ -48,6 +48,7 @@
 
 ### System Design
 - M [146. LRU Cache](https://leetcode.com/problems/lru-cache/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0146.cpp)
+- E [3242. Design Neighbor Sum Service](https://leetcode.com/problems/design-neighbor-sum-service/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3242.cpp)
 
 ### Stack
 - E [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0020.cpp)
