@@ -4,6 +4,7 @@
 ### Array
 - M [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0238.cpp)
 - M [179. Largest Number](https://leetcode.com/problems/largest-number/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0179.cpp)
+- M [840. Magic Squares in a Grid](https://leetcode.com/problems/magic-squares-in-a-grid/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0840.cpp)
 - M [885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0885.cpp)
 - M [912. Sort an Array](https://leetcode.com/problems/sort-an-array) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0912.cpp)
 - E [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3105.cpp)
