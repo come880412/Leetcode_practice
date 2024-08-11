@@ -169,6 +169,7 @@ This section contains implementations of common algorithms and data structures t
 
 #### Data Structures
 - Max Heap [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Useful_functions/maxHeap.cpp)
+- Disjoint Set [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Useful_functions/DisJointSet.cpp)
 
 #### String Algorithms
 - RabinKarp Algorithm [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Useful_functions/rabinKarp.cpp)
