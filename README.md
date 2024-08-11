@@ -136,6 +136,9 @@
 - M [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0211.cpp)
 - M [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0421.cpp)
 
+### Disjoint set
+- M [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0684.cpp)
+
 ### Graph
 - H [3244. Shortest Distance After Road Addition Queries II](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-ii) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3244.cpp)
 
