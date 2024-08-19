@@ -164,6 +164,8 @@
 
 ### Math
 - M [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0190.cpp)
+- M [650. 2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0650.cpp)
+
 #### Prime
 - M [3233. Non-Special Prime Count](https://leetcode.com/problems/non-special-prime-count/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3233.cpp)
 
