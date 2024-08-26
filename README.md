@@ -136,6 +136,7 @@
 - E [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0226.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0226.py)
 - M [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0230.cpp) 
 - E [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0572.cpp)
+- E [590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0590.cpp)
 
 ### Trie
 - M [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0208.cpp)
