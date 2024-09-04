@@ -169,6 +169,9 @@
 - E [476. Number Complement](https://leetcode.com/problems/number-complement) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0476.cpp)
 - E [3226. Number of Bit Changes to Make Two Integers Equal](https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3226.cpp)
 
+### Simulation
+- M [874. Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0874.cpp)
+
 ### Math
 - M [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0190.cpp)
 - M [592. Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0592.cpp)
