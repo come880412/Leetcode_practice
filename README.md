@@ -171,6 +171,7 @@
 
 ### Simulation
 - M [874. Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0874.cpp)
+- M [2028. Find Missing Observations](https://leetcode.com/problems/find-missing-observations) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2028.cpp)
 
 ### Math
 - M [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0190.cpp)
