@@ -174,6 +174,7 @@
 - E [476. Number Complement](https://leetcode.com/problems/number-complement) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0476.cpp)
 - M [1310. XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1310.cpp)
 - E [2220. Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2220.cpp)
+- M [2419. Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2419.cpp)
 - E [3226. Number of Bit Changes to Make Two Integers Equal](https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3226.cpp)
 
 ### Simulation
