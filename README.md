@@ -22,6 +22,7 @@
 - M [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0006.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0006.py)
 - M [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0008.cpp)
 - E [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0014.cpp)
+- H [214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0214.cpp)
 - H [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0273.cpp)
 - E [884. Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0884.cpp)
 - E [1945. Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1945.cpp)
