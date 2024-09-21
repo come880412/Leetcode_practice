@@ -120,6 +120,7 @@
 ### Depth-First Search (DFS)
 - M [133. Clone Graph](https://leetcode.com/problems/clone-graph/description/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0133.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0133.py) 
 - M [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0200.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0200.py)
+- M [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0200.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0386.py)
   
 ### Breadth-First Search (BFS)
 - M [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0102.cpp)
