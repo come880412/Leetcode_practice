@@ -28,6 +28,7 @@
 - E [1945. Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1945.cpp)
 - M [3227. Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3227.cpp)
 - M [3234. Count the Number of Substrings With Dominant Ones](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3234.cpp)
+- M [3297. Count Substrings That Can Be Rearranged to Contain a String I](https://leetcode.com/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-i) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3297.cpp)
 
 ### Two Pointers
 - M [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0011.cpp)
