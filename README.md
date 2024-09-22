@@ -86,6 +86,7 @@
 - M [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0153.cpp)
 - M [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0235.cpp)
 - M [1894. Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1894.cpp)
+- M [3296. Minimum Number of Seconds to Make Mountain Height Zero](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3296.cpp)
 
 ### Greedy Algorithm
 - E [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0053.cpp)
