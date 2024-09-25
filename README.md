@@ -156,6 +156,7 @@
 - M [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0208.cpp)
 - M [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0211.cpp)
 - M [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0421.cpp)
+- H [2416. Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2416.cpp)
 - M [3043. Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3043.cpp)
 
 ### Disjoint set
