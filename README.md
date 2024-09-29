@@ -59,6 +59,7 @@
 
 ### System Design
 - M [146. LRU Cache](https://leetcode.com/problems/lru-cache/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0146.cpp)
+- M [432. All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0432.cpp)
 - M [641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0641.cpp)
 - E [3242. Design Neighbor Sum Service](https://leetcode.com/problems/design-neighbor-sum-service/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3242.cpp)
 
