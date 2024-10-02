@@ -81,6 +81,7 @@
 - M [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0128.cpp)
 - E [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0217.cpp)
 - E [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0242.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0242.py)
+- E [1331. Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1331.cpp)
 - M [1684. Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1684.cpp)
 - M [3185. Count Pairs That Form a Complete Day II](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-ii/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3185.cpp)
 - M [3295. Report Spam Message](https://leetcode.com/problems/report-spam-message) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3295.cpp)
