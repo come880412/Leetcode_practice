@@ -205,6 +205,7 @@
 - M [650. 2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0650.cpp)
 - M [1497. Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1497.cpp)
 - M [1590. Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1590.cpp)
+- M [1963. Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1963.cpp)
 
 #### Prime
 - M [3233. Non-Special Prime Count](https://leetcode.com/problems/non-special-prime-count/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3233.cpp)
