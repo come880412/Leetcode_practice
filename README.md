@@ -72,6 +72,7 @@
 #### Monotonic stack
 - E [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0496.cpp)
 - M [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0739.cpp)
+- M [962. Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0962.cpp)
 
 ### Priority Queue
 - M [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0215.cpp)
