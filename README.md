@@ -78,6 +78,7 @@
 - M [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0215.cpp)
 - M [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0347.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0347.py)
 - M [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0703.cpp)
+- M [1942. The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1942.cpp)
 
 ### Hashing
 - E [1. TwoSum](https://leetcode.com/problems/two-sum/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0001.cpp)
