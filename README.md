@@ -79,6 +79,7 @@
 - M [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0347.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0347.py)
 - M [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0703.cpp)
 - M [1942. The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1942.cpp)
+- M [2406. Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2406.cpp)
 
 ### Hashing
 - E [1. TwoSum](https://leetcode.com/problems/two-sum/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0001.cpp)
