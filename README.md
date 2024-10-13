@@ -80,6 +80,7 @@
 - M [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0703.cpp)
 - M [1942. The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1942.cpp)
 - M [2406. Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2406.cpp)
+- E [3318. Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3318.cpp)
 
 ### Hashing
 - E [1. TwoSum](https://leetcode.com/problems/two-sum/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0001.cpp)
