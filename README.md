@@ -134,6 +134,7 @@
 - M [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0040.cpp)
 - M [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0131.cpp)
 - M [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0241.cpp)
+- M [2044. Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2044.cpp)
 
 ### Depth-First Search (DFS)
 - M [133. Clone Graph](https://leetcode.com/problems/clone-graph/description/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0133.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0133.py) 
