@@ -206,6 +206,7 @@
 
 ### Simulation
 - M [874. Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0874.cpp)
+- M [1545. Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1545.cpp)
 - M [2028. Find Missing Observations](https://leetcode.com/problems/find-missing-observations) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2028.cpp)
 
 ### Math
