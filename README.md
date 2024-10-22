@@ -135,6 +135,7 @@
 - M [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0131.cpp)
 - M [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0241.cpp)
 - M [1593. Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1593.cpp)
+- M [2044. Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2044.cpp)
 
 ### Depth-First Search (DFS)
 - M [133. Clone Graph](https://leetcode.com/problems/clone-graph/description/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0133.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0133.py) 
@@ -207,6 +208,7 @@
 
 ### Simulation
 - M [874. Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0874.cpp)
+- M [1545. Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1545.cpp)
 - M [2028. Find Missing Observations](https://leetcode.com/problems/find-missing-observations) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2028.cpp)
 
 ### Math
