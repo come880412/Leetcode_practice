@@ -125,6 +125,7 @@
 - M [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0300.cpp)
 - M [322. Coin Change](https://leetcode.com/problems/coin-change/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0322.cpp)
 - M [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0377.cpp)
+- M [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1277.cpp)
 - M [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1463.cpp)
 - M [1937. Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1937.cpp)
 - M [3180. Maximum Total Reward Using Operations I](https://leetcode.com/problems/maximum-total-reward-using-operations-i) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3180.cpp)
