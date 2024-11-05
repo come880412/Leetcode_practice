@@ -30,6 +30,7 @@
 - E [1945. Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1945.cpp)
 - E [2490. Circular Sentence](https://leetcode.com/problems/circular-sentence) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2490.cpp)
 - E [2696. Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2696.cpp)
+- M [2914. Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2914.cpp)
 - M [3163. String Compression III](https://leetcode.com/problems/string-compression-iii) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3163.cpp)
 - M [3227. Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3227.cpp)
 - M [3234. Count the Number of Substrings With Dominant Ones](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3234.cpp)
