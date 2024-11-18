@@ -8,6 +8,7 @@
 - E [860. Lemonade Change](https://leetcode.com/problems/lemonade-change) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0860.cpp)
 - M [885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0885.cpp)
 - M [912. Sort an Array](https://leetcode.com/problems/sort-an-array) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0912.cpp)
+- E [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1652.cpp)
 - M [2326. Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2326.cpp)
 - M [2491. Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2491.cpp)
 - M [2601. Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2601.cpp)
