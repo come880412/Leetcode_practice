@@ -29,6 +29,7 @@
 - H [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0796.cpp)
 - E [796. Rotate String](https://leetcode.com/problems/rotate-string) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0273.cpp)
 - E [884. Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0884.cpp)
+- E [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1455.cpp)
 - E [1945. Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1945.cpp)
 - E [2490. Circular Sentence](https://leetcode.com/problems/circular-sentence) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2490.cpp)
 - E [2696. Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2696.cpp)
