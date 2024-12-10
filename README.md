@@ -37,6 +37,7 @@
 - E [2696. Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2696.cpp)
 - M [2825. Make String a Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2825.cpp)
 - M [2914. Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2914.cpp)
+- M [2981. Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2981.cpp)
 - M [3163. String Compression III](https://leetcode.com/problems/string-compression-iii) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3163.cpp)
 - M [3227. Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3227.cpp)
 - M [3234. Count the Number of Substrings With Dominant Ones](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3234.cpp)
