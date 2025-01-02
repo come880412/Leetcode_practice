@@ -35,6 +35,7 @@
 - E [1945. Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1945.cpp)
 - M [2337. Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2337.cpp)
 - E [2490. Circular Sentence](https://leetcode.com/problems/circular-sentence) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2490.cpp)
+- M [2559. Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2559.cpp)
 - E [2696. Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2696.cpp)
 - M [2825. Make String a Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2825.cpp)
 - M [2914. Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2914.cpp)
