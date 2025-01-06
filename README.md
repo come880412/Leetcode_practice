@@ -10,6 +10,7 @@
 - M [912. Sort an Array](https://leetcode.com/problems/sort-an-array) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0912.cpp)
 - E [1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1475.cpp)
 - E [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1652.cpp)
+- M [1769. Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1769.cpp)
 - M [2326. Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2326.cpp)
 - M [2491. Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2491.cpp)
 - M [2601. Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2601.cpp)
