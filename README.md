@@ -113,6 +113,7 @@
 - M [1233. Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1233.cpp)
 - E [1331. Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1331.cpp)
 - M [1684. Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1684.cpp)
+- M [2661. First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2661.cpp)
 - M [3185. Count Pairs That Form a Complete Day II](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-ii/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3185.cpp)
 - M [3223. Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3223.cpp)
 - M [3295. Report Spam Message](https://leetcode.com/problems/report-spam-message) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3295.cpp)
