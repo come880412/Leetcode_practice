@@ -8,6 +8,7 @@
 - E [860. Lemonade Change](https://leetcode.com/problems/lemonade-change) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0860.cpp)
 - M [885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0885.cpp)
 - M [912. Sort an Array](https://leetcode.com/problems/sort-an-array) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0912.cpp)
+- M [1267. Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1267.cpp)
 - E [1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1475.cpp)
 - E [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1652.cpp)
 - M [1769. Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1769.cpp)
