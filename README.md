@@ -36,6 +36,7 @@
 - E [884. Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0884.cpp)
 - E [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1455.cpp)
 - E [1790. Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1790.cpp)
+- M [1910. Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1910.cpp)
 - E [1945. Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1945.cpp)
 - E [2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2185.cpp)
 - M [2337. Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2337.cpp)
