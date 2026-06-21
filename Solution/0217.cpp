@@ -1,15 +1,15 @@
 class Solution {
-public:
-    bool containsDuplicate(vector<int>& nums) {
-        map<int, int> dict;
-        for(int i=0;i<nums.size();++i){
-            if(dict.find(nums[i]) == dict.end()){
-                dict[nums[i]] = i;
+    public:
+        bool containsDuplicate(vector<int>& nums) {
+            unordered_set<int> seen;
+    
+            for (int i = 0; i < nums.size(); ++i) {
+                if (seen.find(nums[i]) != seen.end())
+                    return true;
+                
+                seen.insert(nums[i]);
             }
-            else{
-                return true;
-            }
+    
+            return false;
         }
-        return false;
-    }
 };
