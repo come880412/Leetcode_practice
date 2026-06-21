@@ -1,21 +1,17 @@
 class Solution {
-public:
-    vector<int> twoSum(vector<int>& nums, int target) {
-        map<int, int> dict;
-        
-        vector<int> out;
-        int value;
-        for(int i=0;i<nums.size();++i){
-            value = nums[i];
-            if(dict.find(value) == dict.end()){ // not find
-                dict[target - value] = i;
+    public:
+        vector<int> twoSum(vector<int>& nums, int target) {
+            unordered_map<int, int> indexMap;
+            indexMap.reserve(nums.size());
+    
+            for (int i = 0; i < nums.size(); ++i) {
+                int complement = target - nums[i];
+                auto it = indexMap.find(complement);
+                if (it != indexMap.end())
+                    return {i, it->second};
+    
+                indexMap[nums[i]] = i;
             }
-            else{ // find
-                out.push_back(dict[value]);
-                out.push_back(i);
-                return out;
-            }
+            return {};
         }
-        return out;
-    }
 };
