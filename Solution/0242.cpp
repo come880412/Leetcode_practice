@@ -1,43 +1,24 @@
 class Solution {
-public:
-    bool isAnagram(string s, string t) {
-        map<char, int> s_dict;
-        map<char, int> t_dict;
-        
-        char s_tmp, t_tmp;
-        if(s.size() == t.size()){
-            for(int i=0; i<s.size(); ++i){
-                s_tmp = s[i];
-                t_tmp = t[i];
-                
-                if(s_dict.find(s_tmp) == s_dict.end()) // Not found
-                    s_dict[s_tmp]  = 1;
-                
-                else
-                    s_dict[s_tmp] += 1;
-                
-                
-                if(t_dict.find(t_tmp) == t_dict.end()) // Not found
-                    t_dict[t_tmp] = 1;
-                
-                else
-                    t_dict[t_tmp] += 1;
+    public:
+        bool isAnagram(string s, string t) {
+            int s_length = s.length(), t_length = t.length();
+            if (s_length != t_length) return false;
+            unordered_map<char, int> count;
+    
+            for (int i = 0; i < s_length; ++i) {
+                auto it = count.find(s[i]);
+                if (it == count.end()) 
+                    ++count[s[i]];
             }
-            for ( const auto &[key, value]: s_dict ) {
-                if(t_dict.find(key) == t_dict.end())
+    
+            for (int i = 0; i < t_length; ++i) {
+                auto it = count.find(t[i]);
+                if (it == count.end()) 
                     return false;
-                else{
-                    if(t_dict[key] != value)
-                        return false;
+                else {
+                    if (--it->second == 0) count.erase(t[i]);
                 }
-                    
             }
-            return true;
+            return count.empty();
         }
-        
-        else
-            return false;
-        
-        return false;
-    }
-};
+    };
