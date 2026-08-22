@@ -78,6 +78,7 @@
 - M [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0003.cpp)
 - H [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0076.cpp)
 - M [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0424.cpp)
+- M [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0643.cpp)
 - M [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1456.py)
 - M [2134. Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2134.cpp)
 - M [2779. Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2779.cpp)
