@@ -81,6 +81,7 @@
 - E [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0643.py)
 - M(1317) [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1343.py)
 - M [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1456.py)
+- M(1358) [2090. K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2090.py)
 - M [2134. Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2134.cpp)
 - M [2779. Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2779.cpp)
 
