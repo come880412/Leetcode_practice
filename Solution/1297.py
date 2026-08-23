@@ -5,17 +5,16 @@ class Solution:
 
         window_substr = ""
         for i, c in enumerate(s):
-            window_substr += c
+            left = i - minSize + 1
             freq[c] += 1
 
-            left = i - minSize + 1
             if left >= 0:
+                window_substr = s[left:i+1]
                 if len(freq) <= maxLetters:
                     cnt[window_substr] += 1
                 freq[s[left]] -= 1
                 if freq[s[left]] == 0:
                     freq.pop(s[left])
-                window_substr = window_substr[1:]
 
         max_cnt = 0
         for v in cnt.values():
