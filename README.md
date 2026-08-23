@@ -85,6 +85,7 @@
 - M [2134. Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2134.cpp)
 - M [2779. Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2779.cpp)
 - M(1545) [2841. Maximum Sum of Almost Unique Subarray](https://leetcode.com/problems/maximum-sum-of-almost-unique-subarray) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2841.py)
+- M [4032. Longest Subarray With at Most K Distinct Prime Factors](https://leetcode.com/problems/longest-subarray-with-at-most-k-distinct-prime-factors/) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/4032.py)
 
 ### System Design
 - M [146. LRU Cache](https://leetcode.com/problems/lru-cache/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0146.cpp)
