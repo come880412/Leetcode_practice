@@ -84,6 +84,7 @@
 - M(1358) [2090. K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2090.py)
 - M [2134. Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2134.cpp)
 - M [2779. Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2779.cpp)
+- M(1545) [2841. Maximum Sum of Almost Unique Subarray](https://leetcode.com/problems/maximum-sum-of-almost-unique-subarray) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2841.py)
 
 ### System Design
 - M [146. LRU Cache](https://leetcode.com/problems/lru-cache/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0146.cpp)
