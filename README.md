@@ -138,6 +138,7 @@
 - M [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0153.cpp)
 - M [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0235.cpp)
 - E [704. Binary Search](https://leetcode.com/problems/binary-search/) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0704.py)
+- E [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0744.py)
 - M(1355) [1894. Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1894.cpp)
 - M(1724) [2070. Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2070.cpp)
 - M(1694) [3296. Minimum Number of Seconds to Make Mountain Height Zero](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3296.cpp)
