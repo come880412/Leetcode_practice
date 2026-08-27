@@ -18,6 +18,7 @@
 - M(2047) [2948. Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2948.cpp)
 - E(1217) [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3105.cpp)
 - M(1604) [3107. Minimum Operations to Make Median of Array Equal to K](https://leetcode.com/problems/minimum-operations-to-make-median-of-array-equal-to-k/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3107.cpp)
+- M(1540) [3128. Right Triangles](https://leetcode.com/problems/right-triangles/) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3128.py)
 - M(1523) [3152. Special Array II](https://leetcode.com/problems/special-array-ii) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3152.cpp)
 - E(1211) [3168. Minimum Number of Chairs in a Waiting Room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3168.cpp)
 - E(1255) [3178. Find the Child Who Has the Ball After K Seconds](https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3178.cpp)
