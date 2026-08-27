@@ -26,6 +26,7 @@
 - M(1194) [3194. Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3179.cpp)
 - H(2066) [3229. Minimum Operations to Make Array Equal to Target](https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3229.cpp)
 - E(1163) [3232. Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3232.cpp)
+- M(1556) [3652. Best Time to Buy and Sell Stock using Strategy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy/) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3652.py)
 - M [4031. Find All Numbers Disappeared in an Array II](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array-ii) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/4031.py)
 
 ### String
