@@ -257,7 +257,7 @@
 - E [268. Missing Number](https://leetcode.com/problems/missing-number/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0268.cpp)
 - M [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0371.cpp)
 - E [476. Number Complement](https://leetcode.com/problems/number-complement) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0476.cpp)
-- M(1459) [1310. XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1310.cpp)
+- M(1459) [1310. XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1310.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1310.py)
 - E(1282) [2220. Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2220.cpp)
 - E(1642) [2275. Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2275.cpp)
 - M(1495) [2419. Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2419.cpp)
