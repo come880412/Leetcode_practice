@@ -132,6 +132,7 @@
 - M(1385) [3185. Count Pairs That Form a Complete Day II](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-ii/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3185.cpp)
 - M(1445) [3223. Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3223.cpp)
 - M(1198) [3295. Report Spam Message](https://leetcode.com/problems/report-spam-message) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3295.cpp)
+- E [4038. Count Integers Appearing in a Single Block](https://leetcode.com/problems/count-integers-appearing-in-a-single-block/) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/4038.py)
 
 ### Binary Search
 - M [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0033.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0033.py)
