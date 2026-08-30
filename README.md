@@ -177,6 +177,7 @@
 - M(1848) [3180. Maximum Total Reward Using Operations I](https://leetcode.com/problems/maximum-total-reward-using-operations-i) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3180.cpp)
 - M(1840) [3186. Maximum Total Damage With Spell Casting](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3186.cpp)
 - M(1846) [3196. Maximize Total Cost of Alternating Subarrays](https://leetcode.com/problems/maximize-total-cost-of-alternating-subarrays/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3196.cpp)
+- M [4040. Minimum Operations to Form Subset Sum I](https://leetcode.com/problems/minimum-operations-to-form-subset-sum-i/) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/4040.py)
 
 ### Backtracking
 - M [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0040.cpp)
