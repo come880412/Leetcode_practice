@@ -240,6 +240,9 @@
 
 ### Graph
 - H(2270) [3244. Shortest Distance After Road Addition Queries II](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-ii) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3244.cpp)
+- M [261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0261.py)
+
+
 
 #### Topological Sort
 - M [207. Course Schedule](https://leetcode.com/problems/course-schedule/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0207.cpp)
