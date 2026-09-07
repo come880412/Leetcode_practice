@@ -30,7 +30,8 @@
 - M(1556) [3652. Best Time to Buy and Sell Stock using Strategy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy/) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3652.py)
 - M [4031. Find All Numbers Disappeared in an Array II](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array-ii) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/4031.py)
 - M [4039. Sum of Decoded Numbers](https://leetcode.com/problems/sum-of-decoded-numbers/) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/4039.py)
-- M [4043. Count Rotations With Exactly K Equal Adjacent Pairs](https://leetcode.com/problems/count-rotations-with-exactly-k-equal-adjacent-pairs/) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/4043.py)
+- E [4043. Count Rotations With Exactly K Equal Adjacent Pairs](https://leetcode.com/problems/count-rotations-with-exactly-k-equal-adjacent-pairs/) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/4043.py)
+- M [4044. Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/4044.py)
 
 ### String
 - M [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0006.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0006.py)
