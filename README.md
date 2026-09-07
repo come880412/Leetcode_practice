@@ -161,6 +161,7 @@
 - M(1422) [2938. Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2938.cpp)
 - M(1772) [3170. Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3170.cpp)
 - M(1348) [3195. Find the Minimum Area to Cover All Ones I](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3195.cpp)
+- M [4045. Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/4045.py)
 
 ### Dynamic Programming (DP)
 - M [62. Unique Paths](https://leetcode.com/problems/unique-paths/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0062.cpp) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0062.py)
