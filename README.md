@@ -229,6 +229,7 @@
 - E [590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0590.cpp)
 - M(1477) [951. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0951.cpp)
 - M(1649) [1367. Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1367.cpp)
+- M(1472) [2265. Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2265.cpp)
 - M(1603) [3319. K-th Largest Perfect Subtree Size in Binary Tree](https://leetcode.com/problems/k-th-largest-perfect-subtree-size-in-binary-tree) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3319.cpp)
 
 ### Trie
