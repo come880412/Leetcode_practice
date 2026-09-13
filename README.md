@@ -33,6 +33,7 @@
 - E [4043. Count Rotations With Exactly K Equal Adjacent Pairs](https://leetcode.com/problems/count-rotations-with-exactly-k-equal-adjacent-pairs/) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/4043.py)
 - M [4044. Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/4044.py)
 - E [4048. Count Values With Equally Spaced Occurrences I](hhttps://leetcode.com/problems/count-values-with-equally-spaced-occurrences-i) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/4048.cpp)
+- M [4049. Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/4049.cpp)
 - E [4052. Cyclically Shift Rows and Columns](https://leetcode.com/problems/cyclically-shift-rows-and-columns) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/4052.cpp)
 
 ### String
