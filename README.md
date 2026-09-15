@@ -181,11 +181,13 @@
 - M(1613) [1277. Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1277.cpp)
 - M(1956) [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1463.cpp)
 - M(2105) [1937. Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/1937.cpp)
+- H(2013) [2472. Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2472.cpp)
 - M(1625) [2684. Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/2684.cpp)
 - M(1848) [3180. Maximum Total Reward Using Operations I](https://leetcode.com/problems/maximum-total-reward-using-operations-i) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3180.cpp)
 - M(1840) [3186. Maximum Total Damage With Spell Casting](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3186.cpp)
 - M(1846) [3196. Maximize Total Cost of Alternating Subarrays](https://leetcode.com/problems/maximize-total-cost-of-alternating-subarrays/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/3196.cpp)
 - M [4040. Minimum Operations to Form Subset Sum I](https://leetcode.com/problems/minimum-operations-to-form-subset-sum-i/) [[Python]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/4040.py)
+- M [4050. Minimum Days to Score Exactly N Points](https://leetcode.com/problems/minimum-days-to-score-exactly-n-points/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/4050.cpp)
 
 ### Backtracking
 - M [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) [[C++]](https://github.com/come880412/Leetcode_practice/blob/main/Solution/0040.cpp)
