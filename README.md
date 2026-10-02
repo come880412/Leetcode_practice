@@ -282,6 +282,7 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 > ⚠️ 尚無題目。建議補：902. Numbers At Most N Given Digit Set、2376. Count Special Integers
 
 ### Backtracking
+- `M` [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) — [C++](Solution/0022.cpp) · 排序後同層跳過重複元素，超過 target 提前 break
 - `M` [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) — [C++](Solution/0040.cpp) · 排序後同層跳過重複元素，超過 target 提前 break
 - `M` [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) — [C++](Solution/0131.cpp) · 枚舉第一段切點，是迴文才遞迴切剩下的
 - `M` [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) — [C++](Solution/0241.cpp) · 以每個運算子為中心分治，左右結果做笛卡兒積；用 memo 快取
