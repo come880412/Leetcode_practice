@@ -252,6 +252,8 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 - `M` [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) — [C++](Solution/0152.cpp) [Python](Solution/0152.py) · 正反各掃一次累乘，遇 0 重置（避開負號翻轉問題）
 - `M` [198. House Robber](https://leetcode.com/problems/house-robber/) — [C++](Solution/0198.cpp) [Python](Solution/0198.py) · `dp[i] = max(dp[i-1], dp[i-2]+nums[i])`
 - `M` [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) — [C++](Solution/0213.cpp) · 環狀 → 拆成「不搶最後一間」與「不搶第一間」取 max
+- `M 1785` [1911. Maximum Alternating Subsequence Sum](https://leetcode.com/problems/maximum-alternating-subsequence-sum/) — [C++](Solution/1911.cpp)
+
 - `M 1840` [3186. Maximum Total Damage With Spell Casting](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/) — [C++](Solution/3186.cpp) · 依傷害值去重排序，轉移時只能接 `< 當前-2` 的最佳值
 - `M 1846` [3196. Maximize Total Cost of Alternating Subarrays](https://leetcode.com/problems/maximize-total-cost-of-alternating-subarrays/) — [C++](Solution/3196.cpp) · 每個位置選「自己單獨一組」或「和前一個湊成一組」
 - `M` [4050. Minimum Days to Score Exactly N Points](https://leetcode.com/problems/minimum-days-to-score-exactly-n-points/) — [C++](Solution/4050.cpp) · 枚舉連續天數 L 對應的三角數，`dp[i] = min(dp[i-T(L)] + 1 + L)`
