@@ -114,6 +114,7 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 #### Parentheses / Basic
 - `E` [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) — [C++](Solution/0020.cpp) · 右括號查表比對棧頂，結束時棧必須為空
 - `M 1242` [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) — [C++](Solution/0921.cpp) · 配對成功就 pop，最後殘留的棧大小即答案
+- `E 1311` [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) — [C++](Solution/1021.cpp)
 - `M 1688` [1963. Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced) — [C++](Solution/1963.cpp) · 掃出「多餘右括號」的最大值，一次交換可消兩個 → `(maxExtra+1)/2`
 
 #### Monotonic Stack
