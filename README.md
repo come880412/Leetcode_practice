@@ -20,6 +20,7 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 - `M 1523` [3152. Special Array II](https://leetcode.com/problems/special-array-ii) — [C++](Solution/3152.cpp) [Python](Solution/3152.py) · 前綴計數「相鄰同奇偶」的次數，區間內為 0 才合格
 - `M 1369` [3179. Find the N-th Value After K Seconds](https://leetcode.com/problems/find-the-n-th-value-after-k-seconds/) — [C++](Solution/3179.cpp) · 原地跑 k 輪前綴和，每步取模
 - `M 1556` [3652. Best Time to Buy and Sell Stock using Strategy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy/) — [Python](Solution/3652.py) · 前綴和 + 前綴利潤，枚舉窗口只算「換掉這段」的差額
+- `E 1297` [2913. Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i) — [C++](Solution/2913.cpp)
 - `M` [4071. Minimum Rotations to Dial a Number II](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-ii/) — [C++](Solution/4071.cpp)
 
 #### Matrix / 2D Grid
