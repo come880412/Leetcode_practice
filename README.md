@@ -133,6 +133,7 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 - `M` [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) — [C++](Solution/0703.cpp) · 維持大小為 k 的 min heap，堆頂就是第 k 大
 - `M 1820` [1405. Longest Happy String](https://leetcode.com/problems/longest-happy-string) — [C++](Solution/1405.cpp) · 每次取剩餘最多的字元放 2 個；若與上個相同就改放次多的 1 個
 - `M 1695` [1942. The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair) — [C++](Solution/1942.cpp) · 兩個 heap：空椅編號 + 離場時間，到點先回收再分配
+- `M 1418` [1962. Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/) — [C++](Solution/1962.cpp)
 - `M 1680` [2182. Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit) — [C++](Solution/2182.cpp) · 貪心取最大字元到上限，卡住就插入次大的 1 個
 - `M 1386` [2530. Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations) — [C++](Solution/2530.cpp) · max heap 取頂加分後改成 `ceil(x/3)` 放回
 - `M 1772` [3170. Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/) — [C++](Solution/3170.cpp) · heap 存 (字元, -索引)，遇 `*` 刪掉最小且最靠右的
