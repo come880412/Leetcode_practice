@@ -392,6 +392,7 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 - `H` [432. All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure) — [C++](Solution/0432.cpp) · 依計數值排序的雙向鏈，每節點掛同值 key 的 set，增減時只移動一格
 - `M` [641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque) — [C++](Solution/0641.cpp) · vector 直接模擬（正規做法是環形陣列 + 頭尾指標）
 - `M 1285` [1381. Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation) — [C++](Solution/1381.cpp) · vector 當底層，increment 直接改前 k 個（可用延遲標記優化）
+- `M 1453` [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/) — [C++](Solution/1453.cpp)
 - `E 1334` [3242. Design Neighbor Sum Service](https://leetcode.com/problems/design-neighbor-sum-service/) — [C++](Solution/3242.cpp) · 建 值→座標 的 hash，查詢時套四個方向偏移量
 
 ### SQL
