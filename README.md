@@ -41,6 +41,7 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 - `M 2047` [2948. Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements) — [C++](Solution/2948.cpp) · 排序後依 limit 切成連通群組，群內可任意排 → 由小到大填回原位置
 - `M 1604` [3107. Minimum Operations to Make Median of Array Equal to K](https://leetcode.com/problems/minimum-operations-to-make-median-of-array-equal-to-k/) — [C++](Solution/3107.cpp) · 排序後從中位數往 k 的方向推，只調整擋路的元素
 - `M 1194` [3194. Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/) — [C++](Solution/3194.cpp) · 排序後頭尾配對取最小平均
+- `M 1506` [3551. Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) — [C++](Solution/3551.cpp)
 - `M` [4031. Find All Numbers Disappeared in an Array II](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array-ii) — [Python](Solution/4031.py) · 去重排序後掃相鄰差距，輸出中間的空洞區間
 
 #### Counting / Scanning
