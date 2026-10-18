@@ -32,6 +32,7 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 - `M 1540` [3128. Right Triangles](https://leetcode.com/problems/right-triangles/) — [Python](Solution/3128.py) · 每個 1 當直角頂點，貢獻 (該行1數-1)×(該列1數-1)
 - `M 1348` [3195. Find the Minimum Area to Cover All Ones I](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/) — [C++](Solution/3195.cpp) · 記錄所有 1 的 minR/maxR/minC/maxC 相乘
 - `E` [4052. Cyclically Shift Rows and Columns](https://leetcode.com/problems/cyclically-shift-rows-and-columns) — [C++](Solution/4052.cpp) · 先做完整列平移再做整行平移，位置用 `(j-k+n)%n`
+- `M` [4084. Last Visited Cell in a Directional Grid](https://leetcode.com/problems/last-visited-cell-in-a-directional-grid) — [C++](Solution/4084.cpp)
 
 #### Sorting-based
 - `M` [179. Largest Number](https://leetcode.com/problems/largest-number/) — [C++](Solution/0179.cpp) · 自訂比較子 `a+b > b+a`，注意全 0 要回傳 "0"
