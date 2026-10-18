@@ -53,6 +53,7 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 - `M` [4044. Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) — [Python](Solution/4044.py) · 旋轉一格只有對半位置的兩個元素會換邊，O(1) 更新前後半和
 - `E` [4048. Count Values With Equally Spaced Occurrences I](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-i) — [C++](Solution/4048.cpp) · 值域小，直接存每個值的出現位置再檢查等差
 - `M` [4049. Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) — [C++](Solution/4049.cpp) · 值域大改存狀態（count/last/diff/valid），一次掃描即時判斷等差
+- `E` [4083. Minimum Deletions to Make Array Sharp](https://leetcode.com/problems/minimum-deletions-to-make-array-sharp/) — [C++](Solution/4083.cpp)
 
 ### String
 
