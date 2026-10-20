@@ -111,6 +111,7 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 - `E` [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) — [C++](Solution/0206.cpp) · 遞迴版（迭代版在註解內）
 - `M 1782` [1171. Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list) — [C++](Solution/1171.cpp) · 前綴和相同代表中間那段總和為 0，用 hash 記 前綴和→節點
 - `E 1151` [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) — [C++](Solution/1290.cpp)
+- `M 1310` [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) — [C++](Solution/2058.cpp)
 - `M 1279` [2807. Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list) — [C++](Solution/2807.cpp) · 相鄰兩節點算 gcd 插入中間，指標一次跳兩格
 - `M 1341` [3217. Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array) — [C++](Solution/3217.cpp) · nums 建 hash，重建一條只留未命中節點的鏈
 
