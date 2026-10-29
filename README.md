@@ -20,8 +20,6 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 - `M 1523` [3152. Special Array II](https://leetcode.com/problems/special-array-ii) — [C++](Solution/3152.cpp) [Python](Solution/3152.py) · 前綴計數「相鄰同奇偶」的次數，區間內為 0 才合格
 - `M 1369` [3179. Find the N-th Value After K Seconds](https://leetcode.com/problems/find-the-n-th-value-after-k-seconds/) — [C++](Solution/3179.cpp) · 原地跑 k 輪前綴和，每步取模
 - `M 1556` [3652. Best Time to Buy and Sell Stock using Strategy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy/) — [Python](Solution/3652.py) · 前綴和 + 前綴利潤，枚舉窗口只算「換掉這段」的差額
-- `E 1297` [2913. Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i) — [C++](Solution/2913.cpp)
-- `M` [4071. Minimum Rotations to Dial a Number II](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-ii/) — [C++](Solution/4071.cpp)
 
 #### Matrix / 2D Grid
 - `M 1425` [840. Magic Squares in a Grid](https://leetcode.com/problems/magic-squares-in-a-grid/) — [C++](Solution/0840.cpp) · 枚舉所有 3x3 左上角，逐項檢查行列對角線和 + 1~9 不重複
@@ -32,7 +30,6 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 - `M 1540` [3128. Right Triangles](https://leetcode.com/problems/right-triangles/) — [Python](Solution/3128.py) · 每個 1 當直角頂點，貢獻 (該行1數-1)×(該列1數-1)
 - `M 1348` [3195. Find the Minimum Area to Cover All Ones I](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/) — [C++](Solution/3195.cpp) · 記錄所有 1 的 minR/maxR/minC/maxC 相乘
 - `E` [4052. Cyclically Shift Rows and Columns](https://leetcode.com/problems/cyclically-shift-rows-and-columns) — [C++](Solution/4052.cpp) · 先做完整列平移再做整行平移，位置用 `(j-k+n)%n`
-- `M` [4084. Last Visited Cell in a Directional Grid](https://leetcode.com/problems/last-visited-cell-in-a-directional-grid) — [C++](Solution/4084.cpp)
 
 #### Sorting-based
 - `M` [179. Largest Number](https://leetcode.com/problems/largest-number/) — [C++](Solution/0179.cpp) · 自訂比較子 `a+b > b+a`，注意全 0 要回傳 "0"
@@ -42,10 +39,11 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 - `M 2047` [2948. Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements) — [C++](Solution/2948.cpp) · 排序後依 limit 切成連通群組，群內可任意排 → 由小到大填回原位置
 - `M 1604` [3107. Minimum Operations to Make Median of Array Equal to K](https://leetcode.com/problems/minimum-operations-to-make-median-of-array-equal-to-k/) — [C++](Solution/3107.cpp) · 排序後從中位數往 k 的方向推，只調整擋路的元素
 - `M 1194` [3194. Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/) — [C++](Solution/3194.cpp) · 排序後頭尾配對取最小平均
-- `M 1506` [3551. Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) — [C++](Solution/3551.cpp)
+- `M 1506` [3551. Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) — [C++](Solution/3551.cpp) · 依 (digit sum, 值) 排序得目標順序，hash 記值→位置，逐位把該在這裡的數換過來
 - `M` [4031. Find All Numbers Disappeared in an Array II](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array-ii) — [Python](Solution/4031.py) · 去重排序後掃相鄰差距，輸出中間的空洞區間
 
 #### Counting / Scanning
+- `E 1297` [2913. Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i) — [C++](Solution/2913.cpp) · 固定右端 j，`d[i]` = [i..j] 相異數；只有「上次出現位置之後」的 d 會 +1
 - `E 1217` [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) — [C++](Solution/3105.cpp) · 同時維護遞增與遞減兩個計數器，斷掉就歸 1
 - `E 1211` [3168. Minimum Number of Chairs in a Waiting Room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/) — [C++](Solution/3168.cpp) · E 加 L 減，取過程中的最大值
 - `E 1163` [3232. Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/) — [C++](Solution/3232.cpp) · 個位數總和與兩位數總和相等才輸
@@ -54,7 +52,8 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 - `M` [4044. Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) — [Python](Solution/4044.py) · 旋轉一格只有對半位置的兩個元素會換邊，O(1) 更新前後半和
 - `E` [4048. Count Values With Equally Spaced Occurrences I](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-i) — [C++](Solution/4048.cpp) · 值域小，直接存每個值的出現位置再檢查等差
 - `M` [4049. Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) — [C++](Solution/4049.cpp) · 值域大改存狀態（count/last/diff/valid），一次掃描即時判斷等差
-- `E` [4083. Minimum Deletions to Make Array Sharp](https://leetcode.com/problems/minimum-deletions-to-make-array-sharp/) — [C++](Solution/4083.cpp)
+- `M` [4071. Minimum Rotations to Dial a Number II](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-ii/) — [C++](Solution/4071.cpp) · 先算總旋轉數，枚舉要改的位置只重算受影響的那一項
+- `E` [4083. Minimum Deletions to Make Array Sharp](https://leetcode.com/problems/minimum-deletions-to-make-array-sharp/) — [C++](Solution/4083.cpp) · 每段連續相同值只留一個，刪掉 `段長−1`
 
 ### String
 
@@ -85,8 +84,8 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 - `M 1479` [2914. Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful) — [C++](Solution/2914.cpp) · 兩兩一組，組內不同就改一次
 - `M 1445` [3223. Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations) — [C++](Solution/3223.cpp) · 同字元每湊滿 3 個就消掉 2 個
 - `M 1451` [3227. Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/) — [C++](Solution/3227.cpp) · 只要字串含任一母音 Alice 必勝
-- `M 1198` [3295. Report Spam Message](https://leetcode.com/problems/report-spam-message) — [C++](Solution/3295.cpp) · 禁字建 hash，命中 2 次即回傳
 - `M 2556` [3234. Count the Number of Substrings With Dominant Ones](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/) — [C++](Solution/3234.cpp) · 前綴計 0/1 個數，用「零數平方」的關係大幅跳過不可能的右端點
+- `M 1198` [3295. Report Spam Message](https://leetcode.com/problems/report-spam-message) — [C++](Solution/3295.cpp) · 禁字建 hash，命中 2 次即回傳
 
 ### Hash Table
 - `E` [1. Two Sum](https://leetcode.com/problems/two-sum/) — [C++](Solution/0001.cpp) · 邊掃邊存，先查 `target-nums[i]` 再插入自己
@@ -104,14 +103,14 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 - `E` [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) — [C++](Solution/0021.cpp) · dummy 頭逐一接較小者，剩下的整串接上
 - `H` [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) — [C++](Solution/0025.cpp) · 先探測是否還有完整 k 組，再反轉該組並接回前一組尾端
 - `M` [86. Partition List](https://leetcode.com/problems/partition-list) — [C++](Solution/0086.cpp) · 拆成兩條 dummy 鏈再接起來，右鏈尾記得斷 nullptr
-- `E` [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) — [C++](Solution/0092.cpp) · 頭插法：把後面的節點一個個搬到 prev 之後
+- `M` [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) — [C++](Solution/0092.cpp) · 頭插法：把後面的節點一個個搬到 prev 之後
 - `E` [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) — [C++](Solution/0141.cpp) [Python](Solution/0141.py) · 快慢指標相遇即有環
 - `M` [143. Reorder List](https://leetcode.com/problems/reorder-list/) — [C++](Solution/0143.cpp) · 快慢指標找中點 → 反轉後半 → 交錯合併（中點要斷開）
 - `M` [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list) — [C++](Solution/0147.cpp) · 每個節點從 dummy 往後找插入位置
 - `E` [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) — [C++](Solution/0206.cpp) · 遞迴版（迭代版在註解內）
 - `M 1782` [1171. Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list) — [C++](Solution/1171.cpp) · 前綴和相同代表中間那段總和為 0，用 hash 記 前綴和→節點
-- `E 1151` [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) — [C++](Solution/1290.cpp)
-- `M 1310` [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) — [C++](Solution/2058.cpp)
+- `E 1151` [1290. Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) — [C++](Solution/1290.cpp) · 逐節點 `ans = ans*2 + val`
+- `M 1310` [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) — [C++](Solution/2058.cpp) · 一次掃描記下所有臨界點索引，max = 尾 − 頭，min = 相鄰差最小值
 - `M 1279` [2807. Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list) — [C++](Solution/2807.cpp) · 相鄰兩節點算 gcd 插入中間，指標一次跳兩格
 - `M 1341` [3217. Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array) — [C++](Solution/3217.cpp) · nums 建 hash，重建一條只留未命中節點的鏈
 
@@ -120,7 +119,7 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 #### Parentheses / Basic
 - `E` [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) — [C++](Solution/0020.cpp) · 右括號查表比對棧頂，結束時棧必須為空
 - `M 1242` [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) — [C++](Solution/0921.cpp) · 配對成功就 pop，最後殘留的棧大小即答案
-- `E 1311` [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) — [C++](Solution/1021.cpp)
+- `E 1311` [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) — [C++](Solution/1021.cpp) · 棧存左括號索引，彈到只剩最外層時取出中間子字串（用計數器即可省掉棧）
 - `M 1688` [1963. Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced) — [C++](Solution/1963.cpp) · 掃出「多餘右括號」的最大值，一次交換可消兩個 → `(maxExtra+1)/2`
 
 #### Monotonic Stack
@@ -139,7 +138,7 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 - `M` [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) — [C++](Solution/0703.cpp) · 維持大小為 k 的 min heap，堆頂就是第 k 大
 - `M 1820` [1405. Longest Happy String](https://leetcode.com/problems/longest-happy-string) — [C++](Solution/1405.cpp) · 每次取剩餘最多的字元放 2 個；若與上個相同就改放次多的 1 個
 - `M 1695` [1942. The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair) — [C++](Solution/1942.cpp) · 兩個 heap：空椅編號 + 離場時間，到點先回收再分配
-- `M 1418` [1962. Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/) — [C++](Solution/1962.cpp)
+- `M 1418` [1962. Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/) — [C++](Solution/1962.cpp) · max heap 每次取最大堆拿走一半放回，做 k 次後加總
 - `M 1680` [2182. Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit) — [C++](Solution/2182.cpp) · 貪心取最大字元到上限，卡住就插入次大的 1 個
 - `M 1386` [2530. Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations) — [C++](Solution/2530.cpp) · max heap 取頂加分後改成 `ceil(x/3)` 放回
 - `M 1772` [3170. Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/) — [C++](Solution/3170.cpp) · heap 存 (字元, -索引)，遇 `*` 刪掉最小且最靠右的
@@ -213,8 +212,8 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 - `M 1720` [2563. Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs) — [C++](Solution/2563.cpp) · 排序後對每個 i 二分出合法 j 的上下界
 
 #### On Answer（二分答案）
-- `M 1505` [2981. Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i) — [C++](Solution/2981.cpp) · 對「長度」二分，每次線性驗證是否存在出現 3 次的同字元子字串
 - `M 2153` [2812. Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid) — [C++](Solution/2812.cpp) · 多源 BFS 算出各格到小偷的距離，再對「安全係數」二分 + BFS 驗證
+- `M 1505` [2981. Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i) — [C++](Solution/2981.cpp) · 對「長度」二分，每次線性驗證是否存在出現 3 次的同字元子字串
 - `M 1694` [3296. Minimum Number of Seconds to Make Mountain Height Zero](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero) — [C++](Solution/3296.cpp) · 對「時間」二分，用等差級數反解每個工人能挖多少
 
 ### Interval
@@ -253,15 +252,14 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 ### Dynamic Programming
 
 #### Linear（1D）
-- `E` [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) — [C++](Solution/0053.cpp) · Kadane：`dp[i] = max(nums[i], nums[i]+dp[i-1])`
+- `M` [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) — [C++](Solution/0053.cpp) · Kadane：`dp[i] = max(nums[i], nums[i]+dp[i-1])`
 - `E` [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) — [C++](Solution/0070.cpp) [Python](Solution/0070.py) · 費氏數列
 - `M` [91. Decode Ways](https://leetcode.com/problems/decode-ways/) — [C++](Solution/0091.cpp) · 分「單獨一位」與「和前一位組成 10~26」，`'0'` 要特判
 - `M` [139. Word Break](https://leetcode.com/problems/word-break/) — [C++](Solution/0139.cpp) [Python](Solution/0139.py) · `dp[i]` = 前 i 個字可切完，枚舉切點查字典
 - `M` [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) — [C++](Solution/0152.cpp) [Python](Solution/0152.py) · 正反各掃一次累乘，遇 0 重置（避開負號翻轉問題）
 - `M` [198. House Robber](https://leetcode.com/problems/house-robber/) — [C++](Solution/0198.cpp) [Python](Solution/0198.py) · `dp[i] = max(dp[i-1], dp[i-2]+nums[i])`
 - `M` [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) — [C++](Solution/0213.cpp) · 環狀 → 拆成「不搶最後一間」與「不搶第一間」取 max
-- `M 1785` [1911. Maximum Alternating Subsequence Sum](https://leetcode.com/problems/maximum-alternating-subsequence-sum/) — [C++](Solution/1911.cpp)
-
+- `M 1785` [1911. Maximum Alternating Subsequence Sum](https://leetcode.com/problems/maximum-alternating-subsequence-sum/) — [C++](Solution/1911.cpp) · 兩個狀態：最後取的是「加」或「減」，`pos = max(pos, neg+x)`、`neg = max(neg, pos-x)`
 - `M 1840` [3186. Maximum Total Damage With Spell Casting](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/) — [C++](Solution/3186.cpp) · 依傷害值去重排序，轉移時只能接 `< 當前-2` 的最佳值
 - `M 1846` [3196. Maximize Total Cost of Alternating Subarrays](https://leetcode.com/problems/maximize-total-cost-of-alternating-subarrays/) — [C++](Solution/3196.cpp) · 每個位置選「自己單獨一組」或「和前一個湊成一組」
 - `M` [4050. Minimum Days to Score Exactly N Points](https://leetcode.com/problems/minimum-days-to-score-exactly-n-points/) — [C++](Solution/4050.cpp) · 枚舉連續天數 L 對應的三角數，`dp[i] = min(dp[i-T(L)] + 1 + L)`
@@ -293,7 +291,7 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 > ⚠️ 尚無題目。建議補：902. Numbers At Most N Given Digit Set、2376. Count Special Integers
 
 ### Backtracking
-- `M` [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) — [C++](Solution/0022.cpp) · 排序後同層跳過重複元素，超過 target 提前 break
+- `M` [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) — [C++](Solution/0022.cpp) · `open < n` 才能放 `(`，`close < open` 才能放 `)`，兩者都到 n 就收
 - `M` [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) — [C++](Solution/0040.cpp) · 排序後同層跳過重複元素，超過 target 提前 break
 - `M` [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) — [C++](Solution/0131.cpp) · 枚舉第一段切點，是迴文才遞迴切剩下的
 - `M` [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) — [C++](Solution/0241.cpp) · 以每個運算子為中心分治，左右結果做笛卡兒積；用 memo 快取
@@ -304,6 +302,7 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 ### Simulation
 - `M 1846` [874. Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/) — [C++](Solution/0874.cpp) · 障礙物按 x/y 分別存 set，用 upper_bound 一次算出能走到哪裡
 - `M 1479` [1545. Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string) — [C++](Solution/1545.cpp) · 直接依規則 `S + "1" + invert(reverse(S))` 造出字串
+- `M` [4084. Last Visited Cell in a Directional Grid](https://leetcode.com/problems/last-visited-cell-in-a-directional-grid) — [C++](Solution/4084.cpp) · 照格子箭頭走，越界或走回已訪問的格子就停
 
 ---
 
@@ -402,7 +401,7 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 - `H` [432. All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure) — [C++](Solution/0432.cpp) · 依計數值排序的雙向鏈，每節點掛同值 key 的 set，增減時只移動一格
 - `M` [641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque) — [C++](Solution/0641.cpp) · vector 直接模擬（正規做法是環形陣列 + 頭尾指標）
 - `M 1285` [1381. Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation) — [C++](Solution/1381.cpp) · vector 當底層，increment 直接改前 k 個（可用延遲標記優化）
-- `M 1453` [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/) — [C++](Solution/1472.cpp)
+- `M 1453` [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/) — [C++](Solution/1472.cpp) · vector + `curr`/`last` 兩指標，visit 覆寫後把 `last` 截在 `curr`
 - `E 1334` [3242. Design Neighbor Sum Service](https://leetcode.com/problems/design-neighbor-sum-service/) — [C++](Solution/3242.cpp) · 建 值→座標 的 hash，查詢時套四個方向偏移量
 
 ### SQL
