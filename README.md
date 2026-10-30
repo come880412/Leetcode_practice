@@ -14,6 +14,7 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 
 #### Prefix Sum / Difference Array
 - `M` [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) — [C++](Solution/0238.cpp) · 算總乘積再除自己，用 0 的個數分三種情況避開除以零
+- `H 2306` [862. Shortest Subarray with Sum at Least K](https://leetcode.com/problems/product-of-array-except-self/) — [C++](Solution/0862.cpp)
 - `E 1416` [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb) — [C++](Solution/1652.cpp) · 環狀陣列取模，k 正負決定往後或往前累加
 - `M 1294` [1769. Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box) — [C++](Solution/1769.cpp) · 左右各掃一次，前綴累積「球數 × 距離」
 - `M 1435` [2559. Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges) — [C++](Solution/2559.cpp) · 前綴計數頭尾皆母音的字串，查詢 O(1) 相減
