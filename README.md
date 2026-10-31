@@ -103,6 +103,7 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 - `M` [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) — [C++](Solution/0002.cpp) · dummy 頭 + carry，迴圈條件要包含 `carry != 0`
 - `M` [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) — [C++](Solution/0019.cpp) [Python](Solution/0019.py) · 快慢指標相隔 n，dummy 頭處理刪頭節點
 - `E` [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) — [C++](Solution/0021.cpp) · dummy 頭逐一接較小者，剩下的整串接上
+- `E` [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) — [C++](Solution/0023.cpp)
 - `H` [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) — [C++](Solution/0025.cpp) · 先探測是否還有完整 k 組，再反轉該組並接回前一組尾端
 - `M` [86. Partition List](https://leetcode.com/problems/partition-list) — [C++](Solution/0086.cpp) · 拆成兩條 dummy 鏈再接起來，右鏈尾記得斷 nullptr
 - `M` [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) — [C++](Solution/0092.cpp) · 頭插法：把後面的節點一個個搬到 prev 之後
