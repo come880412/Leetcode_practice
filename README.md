@@ -13,6 +13,7 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 ### Array & Matrix
 
 #### Prefix Sum / Difference Array
+- `M` [48. Rotate Image](https://leetcode.com/problems/rotate-image/) — [C++](Solution/0048.cpp)
 - `M` [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) — [C++](Solution/0238.cpp) · 算總乘積再除自己，用 0 的個數分三種情況避開除以零
 - `H 2306` [862. Shortest Subarray with Sum at Least K](https://leetcode.com/problems/product-of-array-except-self/) — [C++](Solution/0862.cpp)
 - `E 1416` [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb) — [C++](Solution/1652.cpp) · 環狀陣列取模，k 正負決定往後或往前累加
