@@ -195,6 +195,7 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 - `H` [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) — [C++](Solution/0076.cpp) · 用「已滿足數量的相異字元數」判斷窗口是否合格，合格就收縮左界
 - `M` [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) — [C++](Solution/0209.cpp)
 - `M` [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) — [C++](Solution/0424.cpp) · 窗口長度 − 最高頻字元數 > k 就收縮
+- `M 1672` [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) — [C++](Solution/1438.cpp)
 - `M 1638` [2779. Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation) — [C++](Solution/2779.cpp) · 排序後找最長區間使 `max-min ≤ 2k`
 - `M 1847` [3297. Count Substrings That Can Be Rearranged to Contain a String I](https://leetcode.com/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-i) — [C++](Solution/3297.cpp) · 窗口合格時右端可任意延伸 → 一次加 `n-right`
 - `M` [4032. Longest Subarray With at Most K Distinct Prime Factors](https://leetcode.com/problems/longest-subarray-with-at-most-k-distinct-prime-factors/) — [Python](Solution/4032.py) · 先預處理每個數的質因數，窗口維護相異質因數計數
