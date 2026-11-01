@@ -298,6 +298,7 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 
 ### Backtracking
 - `M` [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) — [C++](Solution/0022.cpp) · `open < n` 才能放 `(`，`close < open` 才能放 `)`，兩者都到 n 就收
+- `M` [39. Combination Sum](https://leetcode.com/problems/combination-sum/) — [C++](Solution/0039.cpp)
 - `M` [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) — [C++](Solution/0040.cpp) · 排序後同層跳過重複元素，超過 target 提前 break
 - `M` [79. Word Search](https://leetcode.com/problems/word-search/) — [C++](Solution/0079.cpp) · 每格當起點 DFS，走過的格子暫標 `#`，回溯時還原
 - `M` [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) — [C++](Solution/0131.cpp) · 枚舉第一段切點，是迴文才遞迴切剩下的
