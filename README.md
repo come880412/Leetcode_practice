@@ -13,9 +13,7 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 ### Array & Matrix
 
 #### Prefix Sum / Difference Array
-- `M` [48. Rotate Image](https://leetcode.com/problems/rotate-image/) — [C++](Solution/0048.cpp)
 - `M` [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) — [C++](Solution/0238.cpp) · 算總乘積再除自己，用 0 的個數分三種情況避開除以零
-- `H 2306` [862. Shortest Subarray with Sum at Least K](https://leetcode.com/problems/product-of-array-except-self/) — [C++](Solution/0862.cpp)
 - `E 1416` [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb) — [C++](Solution/1652.cpp) · 環狀陣列取模，k 正負決定往後或往前累加
 - `M 1294` [1769. Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box) — [C++](Solution/1769.cpp) · 左右各掃一次，前綴累積「球數 × 距離」
 - `M 1435` [2559. Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges) — [C++](Solution/2559.cpp) · 前綴計數頭尾皆母音的字串，查詢 O(1) 相減
@@ -24,6 +22,7 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 - `M 1556` [3652. Best Time to Buy and Sell Stock using Strategy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy/) — [Python](Solution/3652.py) · 前綴和 + 前綴利潤，枚舉窗口只算「換掉這段」的差額
 
 #### Matrix / 2D Grid
+- `M` [48. Rotate Image](https://leetcode.com/problems/rotate-image/) — [C++](Solution/0048.cpp) · 順時針 90° = 先沿主對角線轉置，再每列左右翻轉
 - `M 1425` [840. Magic Squares in a Grid](https://leetcode.com/problems/magic-squares-in-a-grid/) — [C++](Solution/0840.cpp) · 枚舉所有 3x3 左上角，逐項檢查行列對角線和 + 1~9 不重複
 - `M 1678` [885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/) — [C++](Solution/0885.cpp) · 步長規律 右1下1 左2上2 右3下3，走出界就不記錄
 - `M 1374` [1267. Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate) — [C++](Solution/1267.cpp) · 先統計每行每列的伺服器數，再看各點所在行或列是否 > 1
@@ -103,7 +102,6 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 - `M` [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) — [C++](Solution/0002.cpp) · dummy 頭 + carry，迴圈條件要包含 `carry != 0`
 - `M` [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) — [C++](Solution/0019.cpp) [Python](Solution/0019.py) · 快慢指標相隔 n，dummy 頭處理刪頭節點
 - `E` [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) — [C++](Solution/0021.cpp) · dummy 頭逐一接較小者，剩下的整串接上
-- `E` [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) — [C++](Solution/0023.cpp)
 - `H` [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) — [C++](Solution/0025.cpp) · 先探測是否還有完整 k 組，再反轉該組並接回前一組尾端
 - `M` [86. Partition List](https://leetcode.com/problems/partition-list) — [C++](Solution/0086.cpp) · 拆成兩條 dummy 鏈再接起來，右鏈尾記得斷 nullptr
 - `M` [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) — [C++](Solution/0092.cpp) · 頭插法：把後面的節點一個個搬到 prev 之後
@@ -127,15 +125,18 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 
 #### Monotonic Stack
 - `E` [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) — [C++](Solution/0496.cpp) · 遞減棧，遇到更大的就把棧內較小者全部結算
-- `M` [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) — [C++](Solution/0739.cpp) · 棧存 (index, 溫度)，彈出時用索引差算等待天數
+- `M` [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) — [C++](Solution/0739.cpp) · 遞減棧只存索引，溫度用索引回查；彈出時索引差即等待天數
 - `M 1607` [962. Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/) — [C++](Solution/0962.cpp) · 先建遞減棧存候選左端點，再從右往左貪心彈出算最大寬度
 - `E 1212` [1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop) — [C++](Solution/1475.cpp) · 找下一個 ≤ 自己的價格當折扣（目前是 O(n²) 暴力版，可改單調棧）
 - `M` [4054. Count Shadow Pairs I](https://leetcode.com/problems/count-shadow-pairs-i/) — [C++](Solution/4054.cpp) · 遞增棧壓縮相同值，維護 running 總數再扣掉等值的部分
 
 ### Queue & Deque
-> ⚠️ 尚無題目。建議補：239. Sliding Window Maximum（單調遞減 deque）、1696. Jump Game VI
+- `H 2306` [862. Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) — [C++](Solution/0862.cpp) · 前綴和 + 遞增 deque：隊頭滿足 `p[r]-p[front] ≥ k` 就結算並彈出，隊尾 ≥ `p[r]` 的不可能更好也彈掉
+
+> 單調 deque 維護窗口最大/最小值的題目放在 [Sliding Window](#sliding-window)：1438
 
 ### Heap / Priority Queue
+- `H` [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) — [C++](Solution/0023.cpp) · min heap 存 (值, 第幾條鏈)，每次取最小接上，再推入該鏈的下一個
 - `M` [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) — [C++](Solution/0215.cpp) · 全丟 max heap 彈 k 次（維持大小 k 的 min heap 更省）
 - `M` [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) — [C++](Solution/0347.cpp) [Python](Solution/0347.py) · 先統計詞頻，再用 (次數, 值) 丟 heap 取前 k
 - `M` [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) — [C++](Solution/0703.cpp) · 維持大小為 k 的 min heap，堆頂就是第 k 大
@@ -195,9 +196,9 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 #### Variable Size
 - `M` [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) — [C++](Solution/0003.cpp) · 記錄每字元最後出現位置，左界只能往右不能倒退
 - `H` [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) — [C++](Solution/0076.cpp) · 用「已滿足數量的相異字元數」判斷窗口是否合格，合格就收縮左界
-- `M` [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) — [C++](Solution/0209.cpp)
+- `M` [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) — [C++](Solution/0209.cpp) · 右端擴張累加，和 ≥ target 時一邊記錄長度一邊收縮左界
 - `M` [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) — [C++](Solution/0424.cpp) · 窗口長度 − 最高頻字元數 > k 就收縮
-- `M 1672` [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) — [C++](Solution/1438.cpp)
+- `M 1672` [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) — [C++](Solution/1438.cpp) · 兩個單調 deque 分別維護窗口 max / min，差 > limit 就收縮左界並彈掉過期的隊頭
 - `M 1638` [2779. Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation) — [C++](Solution/2779.cpp) · 排序後找最長區間使 `max-min ≤ 2k`
 - `M 1847` [3297. Count Substrings That Can Be Rearranged to Contain a String I](https://leetcode.com/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-i) — [C++](Solution/3297.cpp) · 窗口合格時右端可任意延伸 → 一次加 `n-right`
 - `M` [4032. Longest Subarray With at Most K Distinct Prime Factors](https://leetcode.com/problems/longest-subarray-with-at-most-k-distinct-prime-factors/) — [Python](Solution/4032.py) · 先預處理每個數的質因數，窗口維護相異質因數計數
@@ -297,8 +298,8 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 
 ### Backtracking
 - `M` [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) — [C++](Solution/0022.cpp) · `open < n` 才能放 `(`，`close < open` 才能放 `)`，兩者都到 n 就收
-- `M` [40. Combination Sum II](https://leetcode.com/problems/word-search/) — [C++](Solution/0079.cpp)
-- `M` [79. Word Search](https://leetcode.com/problems/combination-sum-ii/) — [C++](Solution/0040.cpp) · 排序後同層跳過重複元素，超過 target 提前 break
+- `M` [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) — [C++](Solution/0040.cpp) · 排序後同層跳過重複元素，超過 target 提前 break
+- `M` [79. Word Search](https://leetcode.com/problems/word-search/) — [C++](Solution/0079.cpp) · 每格當起點 DFS，走過的格子暫標 `#`，回溯時還原
 - `M` [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) — [C++](Solution/0131.cpp) · 枚舉第一段切點，是迴文才遞迴切剩下的
 - `M` [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) — [C++](Solution/0241.cpp) · 以每個運算子為中心分治，左右結果做笛卡兒積；用 memo 快取
 - `M` [494. Target Sum](https://leetcode.com/problems/target-sum) — [C++](Solution/0494.cpp) · 每個數選 + 或 −，全枚舉（可轉成子集和 DP 優化）
