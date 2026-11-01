@@ -19,6 +19,7 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 - `M 1435` [2559. Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges) — [C++](Solution/2559.cpp) · 前綴計數頭尾皆母音的字串，查詢 O(1) 相減
 - `M 1523` [3152. Special Array II](https://leetcode.com/problems/special-array-ii) — [C++](Solution/3152.cpp) [Python](Solution/3152.py) · 前綴計數「相鄰同奇偶」的次數，區間內為 0 才合格
 - `M 1369` [3179. Find the N-th Value After K Seconds](https://leetcode.com/problems/find-the-n-th-value-after-k-seconds/) — [C++](Solution/3179.cpp) · 原地跑 k 輪前綴和，每步取模
+- `M 1553` [3361. Shift Distance Between Two Strings](https://leetcode.com/problems/shift-distance-between-two-strings/) — [C++](Solution/3361.cpp)
 - `M 1556` [3652. Best Time to Buy and Sell Stock using Strategy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy/) — [Python](Solution/3652.py) · 前綴和 + 前綴利潤，枚舉窗口只算「換掉這段」的差額
 
 #### Matrix / 2D Grid
