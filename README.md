@@ -375,6 +375,7 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 ### Bit Manipulation
 - `E` [190. Reverse Bits](https://leetcode.com/problems/reverse-bits) — [C++](Solution/0190.cpp) · 逐位取出後左移堆疊 32 次
 - `E` [268. Missing Number](https://leetcode.com/problems/missing-number/) — [C++](Solution/0268.cpp) · 標記命中表找空位（XOR 或等差和更省空間）
+- `E` [338. Counting Bits](https://leetcode.com/problems/counting-bits/) — [C++](Solution/0338.cpp)
 - `M` [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) — [C++](Solution/0371.cpp) · `a^b` 是不進位加法，`(a&b)<<1` 是進位，反覆到進位為 0
 - `E` [476. Number Complement](https://leetcode.com/problems/number-complement) — [C++](Solution/0476.cpp) · 從最高位找到第一個 1 之後，每位都 XOR 翻轉
 - `M 1459` [1310. XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray) — [C++](Solution/1310.cpp) [Python](Solution/1310.py) · 前綴 XOR，區間值 = `prefix[r] ^ prefix[l-1]`
