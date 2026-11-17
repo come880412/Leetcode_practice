@@ -26,6 +26,7 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 - `M` [48. Rotate Image](https://leetcode.com/problems/rotate-image/) — [C++](Solution/0048.cpp) · 順時針 90° = 先沿主對角線轉置，再每列左右翻轉
 - `M 1425` [840. Magic Squares in a Grid](https://leetcode.com/problems/magic-squares-in-a-grid/) — [C++](Solution/0840.cpp) · 枚舉所有 3x3 左上角，逐項檢查行列對角線和 + 1~9 不重複
 - `M 1678` [885. Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/) — [C++](Solution/0885.cpp) · 步長規律 右1下1 左2上2 右3下3，走出界就不記錄
+- `M 1432` [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) — [C++](Solution/0994.cpp)
 - `M 1374` [1267. Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate) — [C++](Solution/1267.cpp) · 先統計每行每列的伺服器數，再看各點所在行或列是否 > 1
 - `M 1421` [2326. Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv) — [C++](Solution/2326.cpp) · 四方向循環，撞到邊界就縮界並轉向
 - `M 1502` [2661. First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column) — [C++](Solution/2661.cpp) · hash 存 值→座標，邊塗邊累加行列計數
