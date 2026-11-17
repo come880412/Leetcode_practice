@@ -330,6 +330,7 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 - `E` [590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal) — [C++](Solution/0590.cpp) · 走完所有 children 再記錄自己
 - `M 1477` [951. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees) — [C++](Solution/0951.cpp) · 每層試「不翻」與「翻」兩種配對，任一成立即可
 - `M 1649` [1367. Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/) — [C++](Solution/1367.cpp) · 雙層遞迴：外層換起點，內層沿左或右往下比對
+- `M 1360` [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) — [C++](Solution/1448.cpp)
 - `M 1861` [1993. Operations on Tree](https://leetcode.com/problems/operations-on-tree/) — [C++](Solution/1993.cpp)
 - `M` [2583. Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) — [C++](Solution/2583.cpp) · 遞迴時帶層數累加各層和，排序後取第 k 大
 - `M 1676` [2641. Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii) — [C++](Solution/2641.cpp) · BFS 時佇列一併帶著「兄弟組的和」，新值 = 本層總和 − 該組和
