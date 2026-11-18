@@ -327,6 +327,7 @@ C++ / Python 解題紀錄。分類依據是**解這題需要想到的技巧**，
 - `E` [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) — [C++](Solution/0104.cpp) · 後序遞迴取左右深度 max + 1
 - `E` [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) — [C++](Solution/0145.cpp) · 左 → 右 → 根
 - `E` [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) — [C++](Solution/0226.cpp) [Python](Solution/0226.py) · 交換左右子樹後遞迴
+- `E` [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) — [C++](Solution/0543.cpp)
 - `E` [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) — [C++](Solution/0572.cpp) · 每個節點都試著和 subRoot 做一次完整比對
 - `E` [590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal) — [C++](Solution/0590.cpp) · 走完所有 children 再記錄自己
 - `M 1477` [951. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees) — [C++](Solution/0951.cpp) · 每層試「不翻」與「翻」兩種配對，任一成立即可
